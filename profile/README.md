@@ -1,31 +1,25 @@
-# Rhyzoma 🌱
+<p align="center">
+  <img src="https://ucarecdn.com/d0e4e611-da07-4644-9ea1-d72ee03efa7f/image.png" alt="Rhyzoma Logo" width="150"/>
+</p>
 
-**Rooted. Growing. Connected.**
-
-Rhyzoma is an initiative inspired by the structure of rhizome roots — growing horizontally, branching freely, and staying deeply interconnected.
-
-## 🌿 Philosophy
-
-We believe growth isn’t always vertical. Like a rhizome, we expand through connections, build resilient networks, and grow strong foundations through collaboration, technology, and open ideas.
-
-## 🔧 Our Focus
-
-- Sustainable software development  
-- Open and inclusive collaboration  
-- Exploration of decentralized systems  
-- Minimalist and nature-inspired design approaches  
-
-## 🎯 Our Mission
-
-To foster growth and innovation through structures that are organic, resilient, and interconnected.
-
-## 🔗 Logo Symbolism
-
-- **Rhizome Roots:** Representing networks and lateral growth  
-- **Sprout:** Symbol of new ideas and innovation  
-- **{ Code }:** Seamless integration of technology  
-- **Natural Colors:** Bamboo green, earth brown, neutral gray — reflecting harmony between nature and modernity  
+<h2 align="center">Rhyzoma</h2>
 
 ---
 
-> _Rhyzoma is where ideas grow like roots — spreading, strengthening, and giving rise to new life._
+**Rhyzoma** is a technology consulting initiative inspired by the structure of rhizome roots — growing horizontally, branching freely, and staying deeply interconnected.
+
+## 🌿 About Us
+
+We believe growth isn’t always vertical. Like a rhizome, we expand through connections, build resilient networks, and grow strong foundations through collaboration, technology, and open ideas.
+
+## 💼 Our Services
+
+| Software Development              | Cloud & Infrastructure          | Tech Strategy & Advisory        |
+|----------------------------------|----------------------------------|----------------------------------|
+| Custom apps, APIs, and systems   | Cloud-native architecture        | Digital roadmapping              |
+| Scalable backend/frontend design | DevOps & automation              | Technology audits & planning     |
+| Modern frameworks & best practices | Security & performance tuning | CTO-as-a-Service                 |
+
+---
+
+> _“We don’t just build software. We grow solutions.”_
