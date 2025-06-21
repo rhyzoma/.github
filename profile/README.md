@@ -2,14 +2,11 @@
   <img src="https://ucarecdn.com/d0e4e611-da07-4644-9ea1-d72ee03efa7f/image.png" alt="Rhyzoma Logo" width="150"/>
 </p>
 
-<h2 align="center">Rhyzoma</h2>
-
 ---
-
-**Rhyzoma** is a technology consulting initiative inspired by the structure of rhizome roots — growing horizontally, branching freely, and staying deeply interconnected.
 
 ## 🌿 About Us
 
+**Rhyzoma** is a technology consulting initiative inspired by the structure of rhizome roots — growing horizontally, branching freely, and staying deeply interconnected.
 We believe growth isn’t always vertical. Like a rhizome, we expand through connections, build resilient networks, and grow strong foundations through collaboration, technology, and open ideas.
 
 ## 💼 Our Services
